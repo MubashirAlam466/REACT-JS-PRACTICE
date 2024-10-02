@@ -40,6 +40,8 @@ export default function About() {
       </div>
     </div>
   </div>
+  <button type="button" class="btn btn-secondary my-3">Light Mode</button>
+
 </div>
     </>
   )
